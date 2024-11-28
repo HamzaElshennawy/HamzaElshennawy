@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on [LoLSkinExplorer](https://github.com/HamzaElshennawy/LoLSkinExplorerBeta)
 
-- 🌱 I’m currently learning **.NET MAUI**
+- 🌱 I’m currently learning **Flutter**, **React Nextjs**.
 
-- 👯 I’m looking to collaborate on **Mobile apps**
+- 👯 I’m looking to collaborate on **Mobile apps**, and **Backend** projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/HamzaElshennawy?tab=repositories](https://github.com/HamzaElshennawy?tab=repositories)
 
-- 📫 How to reach me **elshennawyhamza@gmail.com or h.elshennawy@nu.edu.eg**
+- 📫 How to reach me **elshennawyhamza@gmail.com** or **h.elshennawy@nu.edu.eg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
