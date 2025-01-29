@@ -18,6 +18,7 @@ I'm a **Data Architect** and **Data Flow Engineer**, where I specialize in **Mon
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/hamza-elshennawy-939768127/)
 - [Facebook](fb.com/hamza.elshennawy.9)
+- [Portfolio](https://hamzaelshennawy.github.io/Portfolio/)
 
 
 ### 🎯 Goals for 2025
