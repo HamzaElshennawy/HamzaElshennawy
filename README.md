@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Hamza Elshennawy
 
 ### 🚀 About Me
-I'm a **Data Architect** and **Data Flow Engineer**, where I specialize in **MongoDB** and work on automating **robotic arms for factories**. I have experience in **full-stack development**, **machine learning**, and **IoT systems**.
+I'm a **Full Stack** and **Data Pipline Engineer**, where I specialize in **Backend** and work on automating **robotic arms for factories**. I have experience in **full-stack development**, **machine learning**, and **IoT systems**.
 
 
 ### 🔧 Tech Stack
